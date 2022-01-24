@@ -9,5 +9,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="10-api" />
+    <orderEntry type="module" module-name="10-rtmpserver" />
+    <orderEntry type="module" module-name="10-api" />
   </component>
 </module>

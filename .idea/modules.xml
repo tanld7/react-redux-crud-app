@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../10-api/.idea/10-api.iml" filepath="$PROJECT_DIR$/../10-api/.idea/10-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/10-client.iml" filepath="$PROJECT_DIR$/.idea/10-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../10-rtmpserver/.idea/10-rtmpserver.iml" filepath="$PROJECT_DIR$/../10-rtmpserver/.idea/10-rtmpserver.iml" />
     </modules>
   </component>
 </project>
